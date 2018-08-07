@@ -17,7 +17,7 @@ const removeDuplicates = require('rm-duplicates')
 
 let sourceArr = ['a', 'a', 'a', 'a', 'b', 'b', 'c', 'c', 'd', 'd'];
 let targetArr = removeDuplicates(sourceArr);
-console.log(targetArr)
+console.info(targetArr)
 
-//result: ['a', 'b', 'c', 'd']
+//targetArr: ['a', 'b', 'c', 'd']
 ```
