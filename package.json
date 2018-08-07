@@ -1,6 +1,6 @@
 {
   "name": "rm-duplicates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个数组去重的迷你package",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,10 @@
   },
   "files": [
     "index.js"
+  ],
+  "keywords": [
+    "array",
+    "remove duplicates"
   ],
   "bugs": {
     "url": "https://github.com/Rcong/rm-duplicates/issues"
