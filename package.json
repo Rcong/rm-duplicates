@@ -1,6 +1,6 @@
 {
   "name": "rm-duplicates",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "一个数组去重的迷你package",
   "main": "index.js",
   "scripts": {
