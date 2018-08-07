@@ -4,7 +4,7 @@
   "description": "一个数组去重的迷你package",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
@@ -12,10 +12,11 @@
   },
   "author": "咸鱼君 <654846387@qq.com>",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
     "mocha": "^5.2.0"
   },
-  "devDependencies": {},
   "files": [
     "index.js"
   ],
