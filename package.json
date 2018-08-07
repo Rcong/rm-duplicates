@@ -1,0 +1,26 @@
+{
+  "name": "rm-duplicates",
+  "version": "1.0.0",
+  "description": "一个数组去重的迷你package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rcong/rm-duplicates.git"
+  },
+  "author": "咸鱼君 <654846387@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {},
+  "files": [
+    "index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Rcong/rm-duplicates/issues"
+  },
+  "homepage": "https://github.com/Rcong/rm-duplicates#readme"
+}

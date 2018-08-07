@@ -1,2 +1,2 @@
 # rm-duplicates
-remove duplicates from an array
+一个数组去重的迷你package
